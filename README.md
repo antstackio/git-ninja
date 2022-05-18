@@ -6,3 +6,4 @@ A repository to test your git ninja skills
 - `git checkout -b`
 - 'git add *'
 - 'git push'
+- 'git merge'
