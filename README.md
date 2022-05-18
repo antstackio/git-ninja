@@ -4,3 +4,5 @@ A repository to test your git ninja skills
 - `git merge`
 - `git branch`
 - `git checkout -b`
+- 'git add *'
+- 'git push'
